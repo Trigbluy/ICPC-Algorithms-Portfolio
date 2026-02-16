@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "future": "cpp",
+        "limits": "cpp"
+    }
+}
